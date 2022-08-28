@@ -1,0 +1,30 @@
+Hi!
+I'm sorry, it's my first time here and i don't know how all this works, so i'm sorry if something is wrong, i've some issues in Roll20 with Better20 5etools.
+i've clicked on "report" and brought me here, i've used ctrl+shift+j to check the log and this is what i found. 
+Thank you for your time, hope to not cause problems.
+
+
+
+SessionStore: The session file is invalid: TypeError: state is null SessionStore.jsm:938:19
+Evento da tastiera non disponibile in alcuni layout di tastiera: tasto=“i” modificatori=“accel,alt,shift” id=“key_browserToolbox” browser.xhtml
+Promise resolved while context is inactive
+index.js:5138
+Promise rejected after context unloaded: Actor 'Conduits' destroyed before query 'RuntimeMessage' was resolved
+12 common.js:4
+Promise rejected after context unloaded: Actor 'Conduits' destroyed before query 'RuntimeMessage' was resolved
+index.js:5138
+Promise rejected after context unloaded: Actor 'Conduits' destroyed before query 'RuntimeMessage' was resolved
+index.js:5138
+Promise resolved while context is inactive
+index.js:5138
+Promise rejected after context unloaded: Actor 'Conduits' destroyed before query 'RuntimeMessage' was resolved
+common.js:4
+Error: Please use $(ref:runtime.getURL). EarlyContentScript.js:1
+Promise rejected after context unloaded: Actor 'Conduits' destroyed before query 'RuntimeMessage' was resolved
+index.js:5138
+webrtc.peerconnection.datachannel_created - Unknown scalar.
+webrtc.peerconnection.datachannel_created - Unknown scalar.
+webrtc.peerconnection.datachannel_created - Unknown scalar.
+Error: Please use $(ref:runtime.getURL). ContentScript.js:16
+Promise rejected after context unloaded: Actor 'Conduits' destroyed before query 'RuntimeMessage' was resolved
+index.js:5138
